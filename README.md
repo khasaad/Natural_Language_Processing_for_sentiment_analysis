@@ -1,4 +1,4 @@
-<img src='' width="200" height="200">
+
 
 The project consists of three tasks:
 
