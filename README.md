@@ -17,7 +17,7 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 # How to use
 <ol> 
- <li><code>clone the github repo:<br><code>git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git</code></li>
+ <li>clone the github repo:<br><code>git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git</code></li>
  <li>create a new virtual environment</li>
 </ol>
 
