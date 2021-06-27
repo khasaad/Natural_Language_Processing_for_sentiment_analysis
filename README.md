@@ -1,7 +1,10 @@
 <img src = 'https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/logo.PNG'>
 
-The project consists of three tasks:
+# Introduction:
 
+We are going to analysis sentiments of comments from <a href = 'https://www.trustpilot.com/'>Trustpilot</a> page for french language using CamemBert model and PyTorch. 
+
+The project consists of three tasks:
 
 1. The first one is to scrape the comments and reviews from Trustpilot page by each category (or all categories together). 
 
