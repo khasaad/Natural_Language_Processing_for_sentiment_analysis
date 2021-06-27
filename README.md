@@ -16,14 +16,13 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 3. The third one is a sentiment analysis task. Sentiment analysis, in this case, consists of classifying the opinion of a sentence whether it is positive or negative.
 
 # How to use
+<pre>$ git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git
 
-<pre>$ git clone 
-$ 
-$ pip install -r requirements.txt</pre>
+$ create a new virtual environment</pre>
 
 ### Scraping 
 
-Using file.ipynb
+<pre>$ pip install -r requirements.txt</pre>
 
 ### Preprocess data
 
