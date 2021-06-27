@@ -1,3 +1,5 @@
+<img src='https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/camemBert%20logo.PNG'>
+
 The project consists of three tasks:
 
 
