@@ -32,5 +32,12 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 <p>After scraping, the data will be saved as the name of the selected category into dataframe (csv file), example: beauty_wellbeing.csv</p>
 
 ### Preprocess data
+<ol>
+ <li>pip install -r requirements_clean_Data.txt</li>
+ 
+ <p>Using data_engineering.ipynb to clean the dataframe after scraping to prepare it for train model.
+Add dataframe name which you got it after scraping in the jupyter notebook data_engineering, you will get new dataframe with cleaned data.</p>
+ <p>Example: add dataframe_name = 'beauty_wellbeing.csv', you will get 'cleaned_beauty_wellbeing.csv'</p> 
+</ol>
 
 ### Sentiment analysis
