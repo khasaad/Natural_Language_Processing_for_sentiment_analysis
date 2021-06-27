@@ -17,13 +17,13 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 # How to use
 <ol> 
- <li>clone the github repo:<br><code>git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git</code></li>
+ <li><code>clone the github repo:<br><code>git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git</code></li>
  <li>create a new virtual environment</li>
 </ol>
 
 ### Scraping 
 <ol>
- <li>pip install -r requirements_scraping.txt</li>
+ <li><code>pip install -r requirements_scraping.txt</code></li>
  <li><code>python scraping_comments_Trustpilot.py -c category_name -p number_of_pages </code></li>
  <p>Example: python scraping_comments_Trustpilot.py -c beauty_wellbeing -p 5</p>
  <p>The list of categories exist in dictionary_categories.txt</p>
@@ -33,7 +33,7 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 ### Preprocess data
 <ol>
- <li>pip install -r requirements_clean_Data.txt</li>
+ <li><code>pip install -r requirements_clean_Data.txt</code></li>
  
  <p>Using data_engineering.ipynb to clean the dataframe after scraping to prepare it for train model.
 Add dataframe name which you got it after scraping in the jupyter notebook data_engineering, you will get new dataframe with cleaned data.</p>
