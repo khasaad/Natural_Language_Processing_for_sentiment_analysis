@@ -25,8 +25,11 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 <ol>
  <li>pip install -r requirements.txt</li>
  <li><code>python scraping_comments_Trustpilot.py -c category_name -p number_of_pages </code></li>
- <p>Example: python scraping_comments_Trustpilot.py -c category_name -p number_of_pages</p>
+ <p>Example: python scraping_comments_Trustpilot.py -c beauty_wellbeing -p 5</p>
+ <p>The list of categories exist in dictionary_categories.txt</p>
 </ol>
+
+<p>After scraping, the data will be saved as the name of the selected category into dataframe (csv file), example: beauty_wellbeing.csv</p>
 
 ### Preprocess data
 
