@@ -16,13 +16,22 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 3. The third one is a sentiment analysis task. Sentiment analysis, in this case, consists of classifying the opinion of a sentence whether it is positive or negative.
 
 # How to use
-<pre>$ git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git
+<pre>$ git clone
 
-$ create a new virtual environment</pre>
+$ </pre>
+
+<ol>
+<li>clone the github repo:<br><code>git clone https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis.git</code></li>
+<li>create a new virtual environment</li>
+<li><code>python prepare_deepfruits_for_training.py --input_dir deepFruits_dataset</code></li>
+</ol>
 
 ### Scraping 
-
-<pre>$ pip install -r requirements.txt</pre>
+<ol>
+<li>$ pip install -r requirements.txt</li>
+<li><code>python scraping_comments_Trustpilot.py -c category_name -p number_of_pages </code>
+  example</li>
+</ol>
 
 ### Preprocess data
 
