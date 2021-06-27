@@ -17,7 +17,9 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 # How to use
 
-
+<pre>$ git clone 
+$ 
+$ pip install -r requirements.txt</pre>
 
 ### Scraping 
 
