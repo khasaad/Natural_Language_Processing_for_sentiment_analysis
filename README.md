@@ -1,6 +1,6 @@
 <img src = 'https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/logo.PNG'>
 
-Key words: Deep Learning, NLP (Natural Language Processing), CamemBert,PyTorch, Neural Network, Python.
+<b Key words></b>: Deep Learning, NLP (Natural Language Processing), CamemBert,PyTorch, Neural Network, Python.
 
 # Introduction:
 
@@ -15,6 +15,8 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 3. The third one is a sentiment analysis task. Sentiment analysis, in this case, consists of classifying the opinion of a sentence whether it is positive or negative.
 
 ### Scraping 
+
+Using file.ipynb
 
 ### Preprocess data
 
