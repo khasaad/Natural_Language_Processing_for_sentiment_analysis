@@ -40,4 +40,9 @@ Add dataframe name which you got it after scraping in the jupyter notebook data_
  <p>Example: add dataframe_name = 'beauty_wellbeing.csv', you will get 'cleaned_beauty_wellbeing.csv'</p> 
 </ol>
 
-### Sentiment analysis
+### Sentiment analysis using CamemBERT model
+
+<p>CamemBERT model is French Language Model and trained on 138GB of French text. </p>
+<p>Using Natural_Language_Processing_for_sentiment_analysis.ipynb to train your model using cleaned dataframe.</p>
+
+<p>There are a huge disparity between positive and negative comments, so SMOTE has been used for unbalanced data and neutral comments were excluded.<p>
