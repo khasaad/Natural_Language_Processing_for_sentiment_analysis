@@ -1,6 +1,7 @@
 <img src = 'https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/logo.PNG'>
 
-<b Key words></b>: Deep Learning, NLP (Natural Language Processing), CamemBert,PyTorch, Neural Network, Python.
+#### Key words: 
+Deep Learning, NLP (Natural Language Processing), CamemBert,PyTorch, Neural Network, Python.
 
 # Introduction:
 
