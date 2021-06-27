@@ -23,7 +23,7 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 ### Scraping 
 <ol>
- <li>pip install -r requirements.txt</li>
+ <li>pip install -r requirements_scraping.txt</li>
  <li><code>python scraping_comments_Trustpilot.py -c category_name -p number_of_pages </code></li>
  <p>Example: python scraping_comments_Trustpilot.py -c beauty_wellbeing -p 5</p>
  <p>The list of categories exist in dictionary_categories.txt</p>
