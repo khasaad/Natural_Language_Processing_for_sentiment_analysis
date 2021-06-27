@@ -15,6 +15,10 @@ We are going to analysis sentiments of comments from <a href = 'https://www.trus
 
 3. The third one is a sentiment analysis task. Sentiment analysis, in this case, consists of classifying the opinion of a sentence whether it is positive or negative.
 
+# How to use
+
+
+
 ### Scraping 
 
 Using file.ipynb
