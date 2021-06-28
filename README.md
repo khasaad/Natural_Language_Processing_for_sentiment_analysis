@@ -51,5 +51,6 @@ Add dataframe name which you got it after scraping in the jupyter notebook data_
  
  # Test trained model
  
- After
+ <p>After you have trained the model, you can test it with a new different set of comments. </p>
+ <p>Before that, use data_engineering.ipynb to clean data, then use test_model.ipynb to test your model. (There are a ready dataframe for testing 'comments_for_test.csv')</p>
  
