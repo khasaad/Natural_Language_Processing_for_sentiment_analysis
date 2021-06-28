@@ -47,4 +47,4 @@ Add dataframe name which you got it after scraping in the jupyter notebook data_
 
 <p>There are a huge disparity between positive and negative comments, so SMOTE has been used for unbalanced data and neutral comments were excluded.<p>
  
- <img src='https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/sentiment.PNG'>
+ <img src='https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/sentiment.PNG' width='300' height='300'>
