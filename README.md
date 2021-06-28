@@ -50,7 +50,10 @@ Add dataframe name which you got it after scraping in the jupyter notebook data_
  <img src='https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/sentiment.PNG'>
  
  # Test trained model
- 
+ <ol>
+  <li><code>Download <a href= 'https://drive.google.com/file/d/1FYesHGFMQR6TM1vF3l79UpbONcYCbmCE/view?usp=sharing'>sentiments_model_trained.pt</a> from Drive and load it in test_model.ipynb</code></li>
+ </ol>
+  
  <p>After you have trained the model, you can test it with a new different set of comments. </p>
  <p>Before that, use data_engineering.ipynb to clean data, then use test_model.ipynb to test your model. (There are a ready dataframe for testing 'comments_for_test.csv')</p>
  
